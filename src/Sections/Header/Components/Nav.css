@@ -28,7 +28,9 @@ a {
     justify-content: center;
     height: 8vh;
     /*background: rgb(28, 60, 112);*/
-    background-image: linear-gradient(to right top, #1f324e, #005b85, #00879d, #00b186, #24d642);}
+    background-image: linear-gradient(to right top, #1f324e, #005b85, #00879d, #00b186, #24d642);
+
+}
 
 .logo {
     text-transform: uppercase;
