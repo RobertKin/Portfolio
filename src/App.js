@@ -1,11 +1,12 @@
 import React from "react";
-import Navbar from "./Sections/Header/Components/Nav";
 import Head from "./Sections/Header/Header";
+import Content from "./Sections/Content/Content";
 
 function App() {
   return (
     <div>
       <Head />
+      <Content />
     </div>
   );
 }
