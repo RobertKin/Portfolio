@@ -1,4 +1,5 @@
 #robert {
+    height: 80rem;
     background-image: url(../../../public/Img/Heder-slika.jpg);
     display: flex;
     flex-direction: column;
