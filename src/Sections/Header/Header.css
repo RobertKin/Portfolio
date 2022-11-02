@@ -1,7 +1,8 @@
-#robert{
-    background-image: url(../../../public/Img/slika1.jpg);
+#robert {
+    background-image: url(../../../public/Img/Heder-slika.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
