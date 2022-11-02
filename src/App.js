@@ -5,7 +5,6 @@ import Head from "./Sections/Header/Header";
 function App() {
   return (
     <div>
-      <Navbar />
       <Head />
     </div>
   );
