@@ -1,0 +1,20 @@
+.zero {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    height: 60rem;
+    width: 80rem;
+    color: white;
+}
+
+.zero-b {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+}
+
+#box2 {
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.75);
+    clip-path: inset(0 -15px 0 -15px);
+}
