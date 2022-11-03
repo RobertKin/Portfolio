@@ -3,7 +3,7 @@
 
       function Hero() {
         return (
-            <main className="main">
+            <main id="box" className="main" >
             <div className="main_hero">
               <h1>We are Front-end web developers</h1>
               <h4>We make wonderful things</h4>
