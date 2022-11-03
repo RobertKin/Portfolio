@@ -17,4 +17,6 @@
 #box {
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.75);
     clip-path: inset(-20px -15px 0 -15px);
+    background: rgb(33,35,36);
+background: linear-gradient(180deg, rgba(33,35,36,0) 26%, rgba(33,35,36,0.5690651260504201) 56%, rgba(33,35,36,0.7315301120448179) 75%, rgba(33,35,36,0.8183648459383753) 100%);
 }

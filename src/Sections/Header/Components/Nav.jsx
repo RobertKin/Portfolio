@@ -18,7 +18,7 @@ function Navbar() {
   return (
     <nav className="nav">
       <a href="#" className="logo">
-        Logo
+        <div className="logo-img"></div>
       </a>
       <ul className={active}>
         <li className="nav_item">
