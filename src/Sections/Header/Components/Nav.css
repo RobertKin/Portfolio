@@ -25,21 +25,16 @@ a {
 .nav {
     display: flex;
     align-items: center;
-    justify-content:space-around;
+    justify-content:space-between;
     height: 8vh;
     position: fixed;
-    padding: 25px;
+    padding: 0 25px 0 0;
     z-index: 10;
     background: rgb(33, 35, 36);
     background: linear-gradient(180deg, rgba(33, 35, 36, 0.4) 18%, rgba(33, 35, 36, 0.4) 57%);
     width: 80rem;
 
 
-}
-
-.logo {
-    text-transform: uppercase;
-    font-weight: bold;
 }
 
 .logo-img {

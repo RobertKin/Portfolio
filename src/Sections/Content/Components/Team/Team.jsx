@@ -4,7 +4,7 @@ import "../Team/Team.css"
 function Team () {
     return(
         <div className="team">
-            <div id="box2" className="zero">
+            <div id="box2" className="team-space">
             <div className="zero-b">
               <h1>We are Front-end web developers</h1>
               <h4>We make wonderful things</h4>

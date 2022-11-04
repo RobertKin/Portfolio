@@ -1,5 +1,5 @@
 .work {
-    background-image: url(../../../../../public/Img/Section.png);
+    background-image: url(../../../../../public/Img/siva2.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 50rem;
@@ -11,8 +11,9 @@
     align-items: center;
     height: 60rem;
     width: 80rem;
-    color: white;
-    background-color: #666D6F;}
+    color: #212324;
+    background-color: #eff0f2;
+}
 
 .zero-b {
     display: flex;
@@ -20,8 +21,10 @@
     align-items: center;
     padding: 2rem;
 }
-.zero{
-    background-color:#212324;;
+
+.zero {
+    background-color: #212324;
+    ;
 }
 
 #box3 {
