@@ -22,7 +22,7 @@ function Navbar() {
       </a>
       <ul className={active}>
         <li className="nav_item">
-          <a href="#box" className="nav_link">
+          <a href="#" className="nav_link">
             Home
           </a>
         </li>
@@ -32,7 +32,7 @@ function Navbar() {
           </a>
         </li>
         <li className="nav_item">
-          <a href="#" className="nav_link">
+          <a href="#box3" className="nav_link">
             Portfolio
           </a>
         </li>

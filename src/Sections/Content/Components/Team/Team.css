@@ -37,7 +37,8 @@
     border: 1px solid #ddd;
     border-radius: 20%;
     padding: 5px;
-    width: 20rem;
+    height: 150px;
+    width: 150px;
     background-image: url(../../../../../public/Img/omer.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -47,7 +48,8 @@
     border: 1px solid #ddd;
     border-radius: 20%;
     padding: 5px;
-    width: 20rem;
+    height: 150px;
+    width: 150px;
     background-image: url(../../../../../public/Img/robert.jpg);
     background-repeat: no-repeat;
     background-size: cover;
