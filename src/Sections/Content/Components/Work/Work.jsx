@@ -4,8 +4,8 @@ import "../Work/Work.css";
 function Work() {
   return (
     <div className="work">
-      <div id="box3" className="work-space">
-        <div className="zero-c">
+      <div id="box3" className="work-box">
+        <div className="box-a">
           <h1>We are Front-end web developers</h1>
           <h4>We make wonderful things</h4>
           <p>
