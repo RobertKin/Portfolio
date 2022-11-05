@@ -9,7 +9,7 @@
     margin: 0 auto;
     align-items: center;
     gap: 2rem;
-    height: 60rem;
+    height: 100vh;
     width: 80rem;
     color: white;
     background-color: #2b2a30;
@@ -28,6 +28,32 @@
     flex-direction: column;
     padding: 2rem;
 }
+
+.box-b h4 {
+    padding: 0.3rem;
+}
+
+.img-1 {
+    border: 1px solid #ddd;
+    border-radius: 20%;
+    padding: 5px;
+    width: 20rem;
+    background-image: url(../../../../../public/Img/omer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-2 {
+    border: 1px solid #ddd;
+    border-radius: 20%;
+    padding: 5px;
+    width: 20rem;
+    background-image: url(../../../../../public/Img/robert.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 
 #box2 {
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.75);
