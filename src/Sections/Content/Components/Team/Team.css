@@ -1,5 +1,5 @@
 .team {
-    background-image: url(../../../../../public/Img/Hero.png);
+    background-image: url(../../../../../public/Img/siva2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,7 +8,7 @@
     display: flex;
     margin: 0 auto;
     align-items: center;
-    height: 100vh;
+    height: 60rem;
     width: 80rem;
     color: white;
     background-color: #2b2a30;

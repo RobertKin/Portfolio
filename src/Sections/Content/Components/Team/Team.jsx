@@ -4,7 +4,6 @@ import "../Team/Team.css"
 function Team () {
     return(
         <div className="team">
-            <div className="div-left"> </div>
             <div id="box2" className="team-space">
             <div className="zero-b">
               <h1>We are Front-end web developers</h1>
@@ -19,7 +18,6 @@ function Team () {
               </p>
             </div>
           </div>
-          <div className="div-right"> </div>
         </div>
     )
 }
