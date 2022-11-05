@@ -4,20 +4,28 @@
     background-size: cover;
 }
 
-.team-space {
+.team-box {
     display: flex;
     margin: 0 auto;
     align-items: center;
+    gap: 2rem;
     height: 60rem;
     width: 80rem;
     color: white;
     background-color: #2b2a30;
 }
 
-.zero-b {
+.box-a {
     display: flex;
+    width: 60rem;
     flex-direction: column;
     align-items: center;
+    padding: 5rem;
+}
+
+.box-b {
+    display: flex;
+    flex-direction: column;
     padding: 2rem;
 }
 
