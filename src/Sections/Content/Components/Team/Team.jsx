@@ -1,7 +1,10 @@
 import React from "react";
 import "../Team/Team.css";
 
+
 function Team() {
+
+
   return (
     <div className="team">
       <div id="box2" className="team-box">
@@ -19,21 +22,34 @@ function Team() {
 
         <div className="box-b">
           <h1>Our Team</h1>
-          <h4>Omer Aslani</h4>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt,
-            eaque.
-          </p>
-          <div className="img-1"></div>
-          <h4>Robert Firanji</h4>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt,
-            eaque.
-          </p>
-          <div className="img-2"></div>
+          <div className="pic-container">
+            <div className="img-1"></div>
+            <div className="info-container">
+              <h4>Omer Aslani</h4>
+              <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt,
+                eaque.
+              </p>
+            </div>
+
+          </div>
+
+
+          <div className="pic-container">
+            <div className="img-2"></div>
+            <div className="info-container">
+              <h4>Robert Firanji</h4>
+              <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt,
+                eaque.
+              </p>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>
+
   );
 }
 
