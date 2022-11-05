@@ -1,5 +1,5 @@
 .team {
-    background-image: url(../../../../../public/Img/siva2.png);
+    background-image: url(../../../../../public/Img/Hero.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,7 +8,6 @@
     display: flex;
     margin: 0 auto;
     align-items: center;
-    gap: 2rem;
     height: 100vh;
     width: 80rem;
     color: white;
@@ -27,6 +26,7 @@
     display: flex;
     flex-direction: column;
     padding: 2rem;
+    align-items: center;
 }
 
 .box-b h4 {
@@ -60,4 +60,12 @@
 #box2 {
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.75);
     clip-path: inset(0 -15px 0 -15px);
+    flex-direction: column;
+}
+.pic-container {
+    display: flex;
+    padding: 25px;
+}
+.info-container {
+    margin: 50px;
 }

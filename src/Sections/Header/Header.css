@@ -1,6 +1,8 @@
 #robert {
     height: 85rem;
     background-image: url(../../../public/Img/hero2.jpg);
+    height: 100vh;
+    background-image: url(../../../public/Img/hero2.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
