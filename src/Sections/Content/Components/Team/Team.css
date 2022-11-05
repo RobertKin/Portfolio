@@ -1,5 +1,5 @@
 .team {
-    background-image: url(../../../../../public/Img/Hero.png);
+    background-image: url(../../../../../public/Img/siva2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -10,8 +10,8 @@
     align-items: center;
     height: 100vh;
     width: 80rem;
-    color: white;
-    background-color: #2b2a30;
+    color: #f9eaa0;
+    background-image: url(../../../../../public/Img/Hero.png);
 }
 
 .box-a {
@@ -19,7 +19,7 @@
     width: 60rem;
     flex-direction: column;
     align-items: center;
-    padding: 5rem;
+    padding: 25px;
 }
 
 .box-b {
@@ -62,10 +62,12 @@
     clip-path: inset(0 -15px 0 -15px);
     flex-direction: column;
 }
+
 .pic-container {
     display: flex;
     padding: 25px;
 }
+
 .info-container {
     margin: 50px;
 }

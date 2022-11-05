@@ -6,16 +6,28 @@ function Work() {
     <div className="work">
       <div id="box3" className="work-box">
         <div className="box-a">
-          <h1>We are Front-end web developers</h1>
-          <h4>We make wonderful things</h4>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere
-            perferendis inventore facilis, pariatur ad laboriosam sint omnis?
-            Sapiente, repellat commodi. Perspiciatis quibusdam animi temporibus
-            sunt repudiandae! Similique Lorem ipsum dolor sit amet consectetur,
-            adipisicing elit. Neque dolore itaque et ipsum repellat maxime id
-            pariatur aliquid magni asperiores? corporis aliquam ut.
-          </p>
+          <h1>Selected work</h1>
+          <div className="work-info">
+            <div id="work" className="work1">
+              <p>All</p>
+            </div>
+            <div id="work" className="work2">
+              <p>Web Desing</p>
+            </div>
+            <div id="work" className="work3">
+              <p>Logo Desing</p>
+            </div>
+            <div id="work" className="work4">
+              Branding
+            </div>
+          </div>
+
+          <div className="work-img">
+            <div id="img" className="img1"></div>
+            <div id="img" className="img2"></div>
+            <div id="img" className="img3"></div>
+            <div id="img" className="img4"></div>
+          </div>
         </div>
       </div>
     </div>
