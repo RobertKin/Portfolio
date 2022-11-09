@@ -20,11 +20,11 @@ function Team() {
         </div>
 
         <div className="box-b">
-          <h1>Our Team</h1>
+          <h2 className="h2">Our Team</h2>
           <div className="pic-container">
             <div className="img-1"></div>
             <div className="info-container">
-              <h4>{omer.name}</h4>
+              <h3>{omer.name}</h3>
               <p>{omer.description}</p>
             </div>
           </div>
@@ -32,7 +32,7 @@ function Team() {
           <div className="pic-container">
             <div className="img-2"></div>
             <div className="info-container">
-              <h4>Robert Firanji</h4>
+              <h3>{robert.name}</h3>
               <p>{robert.description}</p>
             </div>
           </div>
