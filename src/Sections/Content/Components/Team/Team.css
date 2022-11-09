@@ -23,10 +23,11 @@
 }
 
 .box-b {
+    width: 100%;
     display: flex;
     flex-direction: column;
     padding: 2rem;
-    align-items: center;
+    align-items: stretch;
 }
 
 .box-b h4 {
@@ -70,4 +71,8 @@
 
 .info-container {
     margin: 50px;
+}
+.h2{
+    font-size: xx-large;
+    text-align: center;
 }

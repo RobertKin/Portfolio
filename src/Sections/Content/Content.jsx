@@ -9,7 +9,6 @@ function Content () {
         <div className="content">
             <Team />
             <Work />
-            {/* <Footer />/ */}
         </div>
     )
 }

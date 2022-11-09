@@ -2,6 +2,7 @@ import React from "react";
 import "../Footer/Contact.css";
 
 function Footer() {
+  const element = <FontAwesomeIcon icon={faCoffee} />
   return (
     <div className="footer">
       <div className="footer-box">
@@ -46,6 +47,7 @@ function Footer() {
         </div>
       </div>
     </div>
+
   );
 }
 
