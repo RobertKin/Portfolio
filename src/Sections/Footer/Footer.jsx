@@ -3,7 +3,7 @@ import "../Footer/Contact.css";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCoffee } from '@fortawesome/free-solid-svg-icons'
-import { faFacebookSquare, faGooglePlusSquare, faInstagramSquare, faTwitterSquare, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faFacebookSquare, faInstagramSquare, faTwitterSquare, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
 
 
@@ -23,9 +23,9 @@ function Footer() {
         </div>
         <div className="footer-content-right">
           <form  className="contact-us-form" action="">
-            <input type="text" placeholder="Name" />
-            <input type="text" placeholder="Email" />
-            <input type="texteare" placeholder="Message" />
+            <input className="input" type="text" placeholder="Name" />
+            <input className="input" type="text" placeholder="Email" />
+            <input className="input" type="texteare" placeholder="Message" />
           </form>
         </div>
 
