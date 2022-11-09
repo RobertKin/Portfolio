@@ -42,7 +42,7 @@ function Navbar() {
           </a>
         </li>
         <li className="nav_item">
-          <a href="#box4" className="nav_link">
+          <a href="#footer" className="nav_link">
             Contact Us
           </a>
         </li>
