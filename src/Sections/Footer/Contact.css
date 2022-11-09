@@ -69,3 +69,17 @@
     text-transform: uppercase;
     font-weight: 200;
 }
+.svg-inline--fa {
+    font-size: 1.5em;
+    color: #f9eaa0;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact-us-form{
+    display: flex;
+    flex-direction: column;
+   
+}

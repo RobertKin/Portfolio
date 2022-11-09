@@ -1,5 +1,5 @@
 .team {
-    background-image: url(../../../../../public/Img/siva2.png);
+    background-image: url(../../../../../public/Img/Hero.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -10,8 +10,8 @@
     align-items: center;
     height: 100vh;
     width: 80rem;
-    color: #f9eaa0;
-    background-image: url(../../../../../public/Img/Hero.png);
+    color: white;
+    background-color: #2b2a30;
 }
 
 .box-a {
@@ -19,7 +19,7 @@
     width: 60rem;
     flex-direction: column;
     align-items: center;
-    padding: 25px;
+    padding: 5rem;
 }
 
 .box-b {
@@ -38,8 +38,7 @@
     border: 1px solid #ddd;
     border-radius: 20%;
     padding: 5px;
-    height: 150px;
-    width: 150px;
+    width: 20rem;
     background-image: url(../../../../../public/Img/omer.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -49,8 +48,7 @@
     border: 1px solid #ddd;
     border-radius: 20%;
     padding: 5px;
-    height: 150px;
-    width: 150px;
+    width: 20rem;
     background-image: url(../../../../../public/Img/robert.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -63,12 +61,10 @@
     clip-path: inset(0 -15px 0 -15px);
     flex-direction: column;
 }
-
 .pic-container {
     display: flex;
     padding: 25px;
 }
-
 .info-container {
     margin: 50px;
 }
