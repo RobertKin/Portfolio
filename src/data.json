@@ -1,0 +1,30 @@
+{
+    "home": {
+        "title": "Home",
+        "sub-title": "Welcome to the home page",
+        "description": "This is the home page",
+        "image": "home.jpg",
+        "color": "#000000",
+        "background": "#ffffff",
+        "background-image": "home.jpg"
+    },
+    "aboutus": {
+        "title": "About Us",
+        "sub-title": "Welcome to the about us page",
+        "description": "This is the about us page",
+        "image": "about-us.jpg",
+        "color": "#000000",
+        "background": "#ffffff",
+        "background-image": "about-us.jpg",
+        "omer":{ 
+            "name": "Omer Aslanai",
+            "description": "This is the team page",
+            "image": "../public/img/omer.jpg"
+        },
+        "robert":{ 
+            "name": "Robert Firanji",
+            "description": "This is the team page",
+            "image": "/img/robert.jpg"
+        }
+    }
+}
