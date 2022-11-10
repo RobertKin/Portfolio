@@ -5,7 +5,6 @@ import Footer from "./Sections/Footer/Footer";
 import Work from "./Sections/Content/Components/Work/Work";
 import Team from "./Sections/Content/Components/Team/Team";
 
-
 function App() {
   return (
     <div>
