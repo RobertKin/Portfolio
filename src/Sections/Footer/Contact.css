@@ -2,7 +2,25 @@
     background-image: url(../../../public/Img/Hero.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 45rem;
+    height: 55rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.circle-container {
+    display: flex;
+    justify-content: center;
+}
+
+.circle {
+    background-image: url(../../../public/Img/Hero.png);
+    border-radius: 150px;
+    padding: 5px;
+    width: 250px;
+    height: 250px;
+    z-index: 10;
+    margin-top: 50px;
 }
 
 .footer-box {
