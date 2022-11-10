@@ -19,7 +19,12 @@ function Footer() {
       </div>
       <div className="footer-content">
         <div className="footer-content-left">
-          <h2>text</h2>
+          <h2>Service</h2>
+          <p>Our set of impeccable services serves as an essential part of any business which
+            is transforming its operations to the online realm. Our mastery isn't limited to
+            full-fledged website development but to every aspect reguired from head to toe for 
+            a flexible and optimum website presence to run the business without faliures.
+          </p>
         </div>
         <div className="footer-content-right">
           <form  className="contact-us-form" action="">

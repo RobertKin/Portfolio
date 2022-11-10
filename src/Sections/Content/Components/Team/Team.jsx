@@ -11,11 +11,11 @@ function Team() {
       <div id="box2" className="team-box">
         <div className="box-a">
           <h1>Creative and Professional</h1>
+          <h2>You Dream it,We Build it.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere perferendis inventore facilis, pariatur ad laboriosam
-            sint omnis? Sapiente, repellat commodi. Perspiciatis quibusdam animi temporibus sunt repudiandae! Similique Lorem
-            ipsum dolor sit amet consectetur, adipisicing elit. Neque dolore itaque et ipsum repellat maxime id pariatur aliquid
-            magni asperiores? corporis aliquam ut.
+            <i>R & O team</i> takes pride in its award-wining team of
+            designers,developers,strategists, and consultants who are skiled
+            enough to turn your creative ideas into impactful realities.
           </p>
         </div>
 
