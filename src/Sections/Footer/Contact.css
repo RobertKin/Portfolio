@@ -94,10 +94,36 @@
 .footer-content {
     display: flex;
     justify-content: space-around;
+
+}
+.footer-content-right {
+   width: 30%;
+}
+.footer-content-left {
+    width: 30%;
+    color: #f9eaa0;
+
 }
 
 .contact-us-form{
     display: flex;
     flex-direction: column;
+    width: 60%;
    
+}
+.input-container , .btn-footer{
+        border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #1E1F20;
+    color: white;
+}
+.input-container:hover{
+    border: 1px solid  #f9eaa0;
+    
+    
+}
+.btn-footer{
+    cursor: pointer;
+    color:#767676;;
 }

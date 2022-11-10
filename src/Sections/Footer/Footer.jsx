@@ -11,7 +11,7 @@ import { faFacebookSquare, faInstagramSquare, faTwitterSquare, faLinkedin } from
 
 
 function Footer() {
-  const element = <FontAwesomeIcon icon={faCoffee} />
+
   return (
     <div className="footer">
       <div className="circle-container">
@@ -19,13 +19,19 @@ function Footer() {
       </div>
       <div className="footer-content">
         <div className="footer-content-left">
-          <h2>text</h2>
+        <h2>Service</h2>
+          <p>Our set of impeccable services serves as an essential part of any business which
+            is transforming its operations to the online realm. Our mastery isn't limited to
+            full-fledged website development but to every aspect reguired from head to toe for 
+            a flexible and optimum website presence to run the business without faliures.
+          </p>
         </div>
         <div className="footer-content-right">
           <form  className="contact-us-form" action="">
-            <input className="input" type="text" placeholder="Name" />
-            <input className="input" type="text" placeholder="Email" />
-            <input className="input" type="texteare" placeholder="Message" />
+            <input className="input-container" type="text" placeholder="Name" />
+            <input className="input-container" type="text" placeholder="Email" />
+            <textarea className="input-container" type="texteare" placeholder="Message" />
+            <button className="btn-footer">Send</button>
           </form>
         </div>
 
