@@ -8,13 +8,22 @@ function Hero() {
         <h1>We are Front-end web developers</h1>
         <h4>We make wonderful things</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere
-          perferendis inventore facilis, pariatur ad laboriosam sint omnis?
-          Sapiente, repellat commodi. Perspiciatis quibusdam animi temporibus
-          sunt repudiandae! Similique Lorem ipsum dolor sit amet consectetur,
-          adipisicing elit. Neque dolore itaque et ipsum repellat maxime id
-          pariatur aliquid magni asperiores? corporis aliquam ut.
+          We bulid website and create unlimited pathways for the brand to capure
+          leads and enjoy unexpected conversions. <i>R & O teams</i> believes in
+          delivering expectations that are doable for our experts. We promise
+          nothing but perfection when it comes to website development.
+          <i>R & O teams</i> has a firm approach for every web design that is
+          further tailored to the business niche of the brand. The proficient
+          strategies for every UI/UX of our website design company open
+          plentiful leads ready to be converted.
         </p>
+        <ul className="hero-list">
+          <li className="list"><i>Costom website design & development</i></li>
+          <li className="list"><i>Mobile responsive web designs</i></li>
+          <li className="list"><i>Advance conversions</i></li>
+          <li className="list"><i>Tailored marketing strategies</i></li>
+          <li className="list"><i>Search engine friendly websites</i></li>
+        </ul>
       </div>
     </main>
   );
