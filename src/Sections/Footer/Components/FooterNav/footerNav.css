@@ -1,0 +1,11 @@
+
+#footer {
+    padding: 5px;
+}
+.footer-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
