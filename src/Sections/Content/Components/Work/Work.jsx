@@ -4,10 +4,10 @@ import "../Work/Work.css";
 function Work() {
   return (
     <div className="work">
-        
       <div id="box3" className="work-box">
-      <div className="work-circle-container">
-          <div className="work-circle"></div></div>
+        <div className="work-circle-container">
+          <div className="work-circle"></div>
+        </div>
         <div className="box-a">
           <h1>We are Front-end web developers</h1>
           <h4>We make wonderful things</h4>

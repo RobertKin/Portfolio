@@ -1,74 +1,79 @@
 .team {
-    background-image: url(../../../../../public/Img/Hero.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url(../../../../../public/Img/Hero.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .team-box {
-    display: flex;
-    margin: 0 auto;
-    align-items: center;
-    height: 100vh;
-    width: 80rem;
-    color: white;
-    background-color: #2b2a30;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  height: 100vh;
+  width: 80rem;
+  color: white;
+  background-color: #2b2a30;
 }
 
 .box-a {
-    display: flex;
-    width: 60rem;
-    flex-direction: column;
-    align-items: center;
-    padding: 5rem;
+  display: flex;
+  width: 60rem;
+  flex-direction: column;
+  align-items: center;
+  padding: 5rem;
 }
 
 .box-b {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    padding: 2rem;
-    align-items: stretch;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  align-items: stretch;
 }
 
 .box-b h4 {
-    padding: 0.3rem;
+  padding: 0.3rem;
 }
 
 .img-1 {
-    border: 1px solid #ddd;
-    border-radius: 20%;
-    padding: 5px;
-    width: 20rem;
-    background-image: url(../../../../../public/Img/omer.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+  border: 1px solid #ddd;
+  border-radius: 20%;
+  padding: 5px;
+  width: 20rem;
+  background-image: url(../../../../../public/Img/omer.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .img-2 {
-    border: 1px solid #ddd;
-    border-radius: 20%;
-    padding: 5px;
-    width: 20rem;
-    background-image: url(../../../../../public/Img/robert.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+  border: 1px solid #ddd;
+  border-radius: 20%;
+  padding: 5px;
+  width: 20rem;
+  background-image: url(../../../../../public/Img/robert.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-
-
 
 #box2 {
-    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.75);
-    clip-path: inset(0 -15px 0 -15px);
-    flex-direction: column;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.75);
+  clip-path: inset(0 -15px 0 -15px);
+  flex-direction: column;
 }
 .pic-container {
-    display: flex;
-    padding: 25px;
+  display: flex;
+  padding: 25px;
 }
 .info-container {
-    margin: 50px;
+  margin: 50px;
 }
-.h2{
-    font-size: xx-large;
-    text-align: center;
+.h2 {
+  font-size: xx-large;
+  text-align: center;
+}
+.team-circle {
+  width: 220px;
+  height: 110px;
+  border-radius: 12rem 12rem 0 0;
+  background-color: #d5d7db;
+  z-index: 10;
 }

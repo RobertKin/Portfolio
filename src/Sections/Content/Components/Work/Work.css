@@ -36,15 +36,11 @@
     display: flex;
     justify-content: center;
 }
-
 .work-circle {
-    background-image: url(../../../../../public/Img/siva2.png);
-    border-radius: 150px;
-    padding: 5px;
-    width: 250px;
-    height: 250px;
+    width: 220px;
+    height: 110px;
+    border-radius: 0 0 12rem 12rem;
+    background-color: #D5D7DB;
     z-index: 10;
-    margin-top: 50px;
-
-
 }
+
