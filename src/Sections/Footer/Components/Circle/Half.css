@@ -1,13 +1,14 @@
 .circle-container {
     display: flex;
     justify-content: center;
+    margin-top: 80px;
 }
+
 .circle {
     background-image: url(../../../../../public/Img/Hero.png);
-    border-radius: 150px;
-    padding: 5px;
-    width: 250px;
-    height: 250px;
-    z-index: 10;
-    margin-top: 50px;
+        width: 220px;
+        height: 110px;
+        border-radius: 12rem 12rem 0 0;
+        z-index: 10;
+
 }

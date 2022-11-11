@@ -32,19 +32,16 @@
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.75);
     clip-path: inset(0 -15px -20px -15px);
 }
+
 .work-circle-container {
     display: flex;
     justify-content: center;
 }
 
 .work-circle {
-    background-image: url(../../../../../public/Img/siva2.png);
-    border-radius: 150px;
-    padding: 5px;
-    width: 250px;
-    height: 250px;
+    width: 180px;
+    height: 90px;
+    border-radius: 0 0 12rem 12rem;
+    background-color: #D5D7DB;
     z-index: 10;
-    margin-top: 50px;
-
-
 }

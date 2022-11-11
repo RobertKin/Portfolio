@@ -1,10 +1,11 @@
-import React from "react";
+
 import "./Hero.css";
 
 function Hero() {
   return (
     <main id="box" className="main">
       <div className="main_hero">
+        {/* Use margin between texts */}
         <h1>We are Front-end web developers</h1>
         <h4>We make wonderful things</h4>
         <p>

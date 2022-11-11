@@ -1,19 +1,22 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "../Components/Nav.css";
 
 function Navbar() {
   const [active, setActive] = useState("nav_menu");
   const [toggleIcon, setToggleIcon] = useState("nav_toggler");
 
+  // If you copy the code try to understand it.
+
   const navToggle = () => {
     active === "nav_menu"
       ? setActive("nav_menu nav_active")
       : setActive("nav_menu");
 
-      //   TogglerIcon
+    //   TogglerIcon
 
-      toggleIcon === 'nav_toggler' ? setToggleIcon('nav_toggler toggle')
-      : setToggleIcon('nav_toggler');
+    toggleIcon === "nav_toggler"
+      ? setToggleIcon("nav_toggler toggle")
+      : setToggleIcon("nav_toggler");
   };
   return (
     <nav className="nav">
