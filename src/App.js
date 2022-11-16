@@ -1,3 +1,5 @@
+import "./App.css";
+
 import React from "react";
 import Head from "./Sections/Header/Header";
 import Content from "./Sections/Content/Content";
@@ -7,7 +9,7 @@ import Team from "./Sections/Content/Components/Team/Team";
 
 function App() {
   return (
-    <div>
+    <div className="first-container">
       <Head />
       <Team />
       <Work />

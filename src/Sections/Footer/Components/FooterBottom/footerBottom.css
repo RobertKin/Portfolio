@@ -4,6 +4,7 @@
     align-items: center;
     flex-wrap: wrap;
     color: #f9eaa0;
+    background-image: url(../../../../../public/Img/Hero.png);
 }
 .footer-icon {
     margin: 0px auto;
