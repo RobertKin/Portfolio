@@ -78,3 +78,18 @@
   background-color: #d5d7db;
   z-index: 10;
 }
+
+@media only screen and (max-width: 600px) {
+  #box2 {
+      width:100%;
+  }
+  .box-a{
+    width: 100%;
+  }
+  .box-b{
+    padding: 0;
+  }
+  #box3 {
+    width: 100%; 
+}
+}

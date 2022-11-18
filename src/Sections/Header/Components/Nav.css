@@ -82,6 +82,12 @@ a {
     }
 }
 
+@media only screen and (max-width: 600px) {
+    .nav {
+        width: -webkit-fill-available;
+    }
+  }
+
 /************* Nav Actove Class ***************/
 
 .nav_active {
